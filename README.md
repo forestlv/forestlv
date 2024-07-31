@@ -3,8 +3,7 @@
 #### ⚡ Hello! Welcome to my page
 I’m a Senior Full Stack Engineer specializing in front end and back end development. 
 Experienced with all stages of the development cycle for dynamic web and mobile projects. 
-Well-versed in numerous programming languages including JavaScript, React.js, Vue.js, Python, PHP, Next.js, SQL, Solidity, Web3 and ReactNative, Java, Swift, Objective C. Strong background in project management and customer relations. Always try and keep the pace with the brand new field and dig into cutting-edge technology. Always try and keep the pace with the brand new field and dig into 
-cutting-edge technology. 
+Well-versed in numerous programming languages including JavaScript, React.js, Vue.js, Python, PHP, Next.js, SQL, Solidity, Web3 and ReactNative, Java, Swift, Objective C. Strong background in project management and customer relations. Always try and keep the pace with the brand new field and dig into cutting-edge technology.
 
 
 ## My Hard Skills ⚔️
